@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-###Research interests
+### Research interests
 
 Reinforcement Learning
 
