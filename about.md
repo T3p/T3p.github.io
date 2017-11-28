@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Research interests
 
-Reinforcement Learning
+Reinforcement Learning, Machine Learning, Artificial Intelligence, Robotics
 
 ### Contact me
 
