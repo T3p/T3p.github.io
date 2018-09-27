@@ -11,6 +11,10 @@ description: PhD student at Politecnico di Milano
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/15109488
 
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
 #
 # Flags below are optional
 #
@@ -85,7 +89,3 @@ exclude:
   - README.md
   - CNAME
 
-header_pages:
-  - about.md
-  - research.md
-  - teaching.md
