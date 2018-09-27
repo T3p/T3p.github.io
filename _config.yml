@@ -84,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
