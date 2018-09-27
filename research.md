@@ -15,6 +15,8 @@ See my *researchgate* profile [here][1]
 ### Workshop Papers 
 * Matteo Papini, Andrea Battistello, Marcello Restelli; "Safely Exploring Policy Gradient"; 14th European Workshop on Reinforcement Learning, Lille, France, 2018 \[[more][6]\] 
 
+![image-title-here](../images/pen.jpg){:class="img-responsive"}
+
 [1]:https://www.researchgate.net/profile/Matteo_Papini
 [2]:http://papers.nips.cc/paper/6950-adaptive-batch-size-for-safe-policy-gradients/bibtex 
 [3]:{{ site.url }}/download/pmlr-v80-papini18a.bib 
