@@ -8,18 +8,19 @@ permalink: /about/
 
 Reinforcement Learning, Machine Learning, AI Safety
 
-###Curriculum Vitae
+### Curriculum Vitae
 Download my CV [here][5]
 
 ### Contact me
 
 Email: matteo DOT papini AT polimi DOT it
+
 Find me at [Politecnico][1]
 
 ### Check out my work
 * [Publications][2]
 * [Code][3]
-* [Videos[4]
+* [Videos][4]
 
 [1]:https://www.deib.polimi.it/eng/people/details/903696
 [2]:{{ site.url }}/research/

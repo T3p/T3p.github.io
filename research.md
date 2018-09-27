@@ -5,14 +5,14 @@ permalink: /research/
 ---
 See my *researchgate* profile [here][1]
 
-###Conference Papers 
+### Conference Papers 
 * **Matteo Papini**, Matteo Pirotta, Marcello Restelli; "Adaptive batch size for safe policy gradients"; Advances in Neural Information Processing Systems, pp. 3591-3600, 2017 \[[bibtex][2]\]\[[more][4]\] 
  
 *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli; "Stochastic Variance-Reduced Policy Gradient"; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
  
 * Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NIPS 2018 *(to appear)* 
  
-###Workshop Papers 
+### Workshop Papers 
 * Matteo Papini, Andrea Battistello, Marcello Restelli; "Safely Exploring Policy Gradient"; 14th European Workshop on Reinforcement Learning, Lille, France, 2018 \[[more][6]\] 
 
 [1]:https://www.researchgate.net/profile/Matteo_Papini
