@@ -13,6 +13,11 @@
 /* BASE RULES */
 /**************/
 
+
+header {
+  background-image: url('{{ site.baseurl }}/img/pois.jpg');
+}
+
 html {
   font-size: 100%;
 }
