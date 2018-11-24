@@ -24,8 +24,7 @@ html {
 
 body {
 	//background: $white;
-	background-image: url('{{ site.baseurl }}/img/pois.jpg');
-	background-repeat: round;
+	background-image: url('{{ site.baseurl }}/imgages/circle.jpg');
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
