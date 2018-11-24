@@ -11,7 +11,7 @@ Reinforcement Learning, Machine Learning, AI Safety
 
 ### Conference Papers 
  
-* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NIPS 2018 *(to appear)* \[[more][7]\]
+* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NeurIPS 2018 \[[more][7]\]
  
  *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli; "Stochastic Variance-Reduced Policy Gradient"; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
 
