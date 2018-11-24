@@ -14,16 +14,17 @@
 /**************/
 
 
-header {
-  background-image: url('{{ site.baseurl }}/img/pois.jpg');
-}
+//header {
+//  background-image: url('{{ site.baseurl }}/img/pois.jpg');
+//}
 
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+	//background: $white;
+	background-image: url('{{ site.baseurl }}/img/pois.jpg');
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
