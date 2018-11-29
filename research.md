@@ -28,4 +28,4 @@ Reinforcement Learning, Machine Learning, AI Safety
 [4]:{{ site.url }}/Poster/ 
 [5]:{{ site.url }}/ICML/ 
 [6]:{{ site.url }}/EWRL
-[7]:{{ site.url }}/NeurIPS18
+[7]:{{ site.url }}/pois
