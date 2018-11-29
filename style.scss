@@ -24,7 +24,7 @@ html {
 
 body {
 	//background: $white;
-	background-image: url('https://rdyar.gitlab.io/background-generator/background-generators/polka-dot-pattern-generator/?bgc=ffffff&cc=3f70ba&sw=0&ox=66&oy=55&dj=1&da=12&r2=38&fos=fill&rr=90&lj=0&cj=1&dcs=5x7');
+	background-image: url('{{ site.baseurl }}/img/pois.png');
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
