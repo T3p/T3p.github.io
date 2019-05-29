@@ -11,9 +11,9 @@ Reinforcement Learning, Machine Learning, AI Safety
 
 ### Conference Papers 
 
-* **Matteo Papini**, Alberto Metelli, Lorenzo Lupo, Marcello Restelli; "Optimistic Policy Optimization via Multiple Importance Sampling"; ICML 2019 \[[more][8]\] 
+* **Matteo Papini**, Alberto Maria Metelli, Lorenzo Lupo, Marcello Restelli; Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4989-4999, 2019. \[[bibtex][9]\]\[[more][8]\] 
 
-* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NeurIPS 2018 \[[more][7]\]
+* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NeurIPS 2018 \[[bibtex][10]\]\[[more][7]\]
  
  *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli; "Stochastic Variance-Reduced Policy Gradient"; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
 
@@ -33,3 +33,5 @@ Reinforcement Learning, Machine Learning, AI Safety
 [6]:{{ site.url }}/EWRL
 [7]:{{ site.url }}/neurips18.md
 [8]:{{ site.url }}/icml19/
+[9]:{{ site.url }}/download/pmlr-v97-papini19a.bib
+[10]:{{ site.url }}/download/policy-optimization-via-importance-sampling.bib
