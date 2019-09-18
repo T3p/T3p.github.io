@@ -8,6 +8,10 @@ I am currently a **teaching assistant** for the class "Informatica B" at Politec
 [Sito del corso][1]
 
 
+Esercitazioni:
+* [Es. 1][2]
+
 ![image-title-here](../images/poli.jpg){:class="img-responsive"}
 
 [1]:http://cassano.faculty.polimi.it/InformaticaB.html
+[2]:{{ site.url }}/download/infoB19es1.pdf
