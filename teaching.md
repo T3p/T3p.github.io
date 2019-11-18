@@ -15,6 +15,7 @@ Esercitazioni 2019:
 * [Es. 4][5]
 * [Es. 5][6]
 * [Es. 9][7]
+* [Es. 10][8]
 
 ![image-title-here](../images/poli.jpg){:class="img-responsive"}
 
@@ -25,3 +26,5 @@ Esercitazioni 2019:
 [5]:{{ site.url }}/download/infoB19es4.pdf
 [6]:{{ site.url }}/download/infoB19es5.pdf
 [7]:{{ site.url }}/download/infoB19es9.pdf
+[8]:{{ site.url }}/download/infoB19es10.pdf
+
