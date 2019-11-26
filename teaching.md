@@ -8,7 +8,7 @@ I am currently a **teaching assistant** for the class "Informatica B" at Politec
 [Sito del corso][1]
 
 
-Esercitazioni  2019:
+Esercitazioni 2019:
 * [Es. 1][2]
 * [Es. 2][3]
 * [Es. 3][4]
