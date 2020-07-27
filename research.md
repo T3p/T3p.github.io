@@ -15,7 +15,7 @@ Proceedings of the Twenty Third International Conference on Artificial Intellige
 
 * **Matteo Papini**, Alberto Maria Metelli, Lorenzo Lupo, Marcello Restelli, "Optimistic Policy Optimization via Multiple Importance Sampling", **ICML 2019**; Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4989-4999, 2019. \[[bibtex][9]\]\[[more][8]\] 
 
-* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli, "Policy Optimization via Importance Sampling", **NeurIPS 2018** \[[bibtex][10]\]\[[more][7]\]
+* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli, "Policy Optimization via Importance Sampling", **NeurIPS 2018**; In Advances in Neural Information Processing Systems, pp. 5442-5454. 2018 \[[bibtex][10]\]\[[more][7]\]
  
  *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli, "Stochastic Variance-Reduced Policy Gradient", **ICML 2018**; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
 
