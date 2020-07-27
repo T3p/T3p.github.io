@@ -22,7 +22,7 @@ Proceedings of the Twenty Third International Conference on Artificial Intellige
 
 * **Matteo Papini**, Matteo Pirotta, Marcello Restelli, "Adaptive batch size for safe policy gradients", **NeurIPS 2017**; Advances in Neural Information Processing Systems, pp. 3591-3600, 2017 \[[bibtex][2]\]\[[more][4]\] 
 
-###Journal Papers
+### Journal Papers
 * Alberto Maria Metelli, **Matteo Papini**, Nico Montali, Marcello Restelli, "Importance Sampling Techniques for Policy Optimization", Journal of Machine Learning Research (**JMLR**) 21(141):1−75, 2020 \[[bibtex][13]\] \[[more][14]\]
 
 ### Workshop Papers 
