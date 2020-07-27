@@ -10,15 +10,20 @@ Reinforcement Learning, Machine Learning, AI Safety
 
 
 ### Conference Papers 
+* **Matteo Papini**, Andrea Battistello, Marcello Restelli, "Balancing Learning Speed and Stability in Policy Gradient via Adaptive Exploration", **AISTATS 2020**; 
+Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108:1188-1199, 2020. \[[bibtex][11]\]\[[more][12]\]
 
-* **Matteo Papini**, Alberto Maria Metelli, Lorenzo Lupo, Marcello Restelli; Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4989-4999, 2019. \[[bibtex][9]\]\[[more][8]\] 
+* **Matteo Papini**, Alberto Maria Metelli, Lorenzo Lupo, Marcello Restelli, "Optimistic Policy Optimization via Multiple Importance Sampling", **ICML 2019**; Proceedings of the 36th International Conference on Machine Learning, PMLR 97:4989-4999, 2019. \[[bibtex][9]\]\[[more][8]\] 
 
-* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli; "Policy Optimization via Importance Sampling"; NeurIPS 2018 \[[bibtex][10]\]\[[more][7]\]
+* Alberto Metelli, **Matteo Papini**, Francesco Faccio, Marcello Restelli, "Policy Optimization via Importance Sampling", **NeurIPS 2018** \[[bibtex][10]\]\[[more][7]\]
  
- *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli; "Stochastic Variance-Reduced Policy Gradient"; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
+ *  **Matteo Papini**, Damiano Binaghi, Giuseppe Canonaco, Matteo Pirotta, Marcello Restelli, "Stochastic Variance-Reduced Policy Gradient", **ICML 2018**; Proceedings of the 35th International Conference on Machine Learning, PMLR 80:4026-4035, 2018. \[[bibtex][3]\]\[[more][5]\] 
 
 
-* **Matteo Papini**, Matteo Pirotta, Marcello Restelli; "Adaptive batch size for safe policy gradients"; Advances in Neural Information Processing Systems, pp. 3591-3600, 2017 \[[bibtex][2]\]\[[more][4]\] 
+* **Matteo Papini**, Matteo Pirotta, Marcello Restelli, "Adaptive batch size for safe policy gradients", **NeurIPS 2017**; Advances in Neural Information Processing Systems, pp. 3591-3600, 2017 \[[bibtex][2]\]\[[more][4]\] 
+
+###Journal Papers
+* Alberto Maria Metelli, **Matteo Papini**, Nico Montali, Marcello Restelli, "Importance Sampling Techniques for Policy Optimization", Journal of Machine Learning Research (**JMLR**) 21(141):1−75, 2020 \[[bibtex][13]\] \[[more][14]\]
 
 ### Workshop Papers 
 * Matteo Papini, Andrea Battistello, Marcello Restelli; "Safely Exploring Policy Gradient"; 14th European Workshop on Reinforcement Learning, Lille, France, 2018 \[[more][6]\] 
@@ -35,3 +40,7 @@ Reinforcement Learning, Machine Learning, AI Safety
 [8]:{{ site.url }}/icml19/
 [9]:{{ site.url }}/download/pmlr-v97-papini19a.bib
 [10]:{{ site.url }}/download/policy-optimization-via-importance-sampling.bib
+[11]:http://proceedings.mlr.press/v108/papini20a.html
+[12]:{{ site.url }}/aistats/
+[13]:http://jmlr.org/papers/v21/20-124.bib
+[14]:{{ site.url }}/jmlr/
