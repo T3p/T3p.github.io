@@ -31,7 +31,9 @@ Proceedings of the Twenty Third International Conference on Artificial Intellige
 * **Matteo Papini**, Matteo Pirotta, Marcello Restelli, "Smoothing Policies and Safe Policy Gradients"; \[[arXiv][17]\]
 
 ### Workshop Papers 
-* Matteo Papini, Andrea Battistello, Marcello Restelli; "Safely Exploring Policy Gradient"; 14th European Workshop on Reinforcement Learning, Lille, France, 2018 \[[more][6]\] 
+* **Matteo Papini**, Andrea Battistello, Marcello Restelli; "Safe Exploration in Gaussian Policy Gradient"; NeurIPS-2019 Workshop on Safety and Robustness in Decision Making, Vancouver, Canada, 2019. \[[more][18]\]
+
+* **Matteo Papini**, Andrea Battistello, Marcello Restelli; "Safely Exploring Policy Gradient"; 14th European Workshop on Reinforcement Learning, Lille, France, 2018 \[[more][6]\] 
 
 ![image-title-here](../images/pen.jpg){:class="img-responsive"}
 
@@ -52,3 +54,4 @@ Proceedings of the Twenty Third International Conference on Artificial Intellige
 [15]:https://www.ijcai.org/proceedings/2020/0632.pdf
 [16]:https://www.ijcai.org/proceedings/2020/bibtex/632
 [17]:https://arxiv.org/abs/1905.03231
+[18]:{{ site.url }}/SRDM/
